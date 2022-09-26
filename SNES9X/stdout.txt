@@ -1,0 +1,3 @@
+Reading config file D:\JOGOS\Emulador de Super Nintendo\SNES9X\snes9x.conf.
+Saving	config file	D:\JOGOS\Emulador de Super Nintendo\SNES9X\snes9x.conf
+Saving	config file	D:\JOGOS\Emulador de Super Nintendo\SNES9X\snes9x.conf
